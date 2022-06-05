@@ -6,9 +6,9 @@ public class Boss extends Admin
 	public boolean checkAccount(int account)   //檢查此帳號是不是預設的Boss帳號，回傳true&false
 	{
 		if(account==0001)
-		{return true;}
+			{return true;}
 		else
-		{return false;}
+			{return false;}
 	}
 	
 	public boolean checkPassword(int password) //檢查此密碼是不是對應的Boss密碼，回傳true&false
