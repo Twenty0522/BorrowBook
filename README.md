@@ -1,3 +1,3 @@
 # BorrowBook
 
-安締~!
+安締
